@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+}
+/* Styles for Header */
+header{
+
+}
+
+/* Styles for Navigation  */
+nav{
+    background-color:#d5d2d2;
+
+    display:flex;
+    justify-content: space-around;
+    padding:10px;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+nav ul li{
+    padding:15px;
+    font-size: 22px;
+}
+
+/* styles for Logo */
+.logo{
+    display:flex;
+    align-items: center;
+
+    padding:5px;
+}
+.logo-title{
+    color:#00ffff;
+    font-size: 20px;
+}
+img{
+    height:60px;
+}
